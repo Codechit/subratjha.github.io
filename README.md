@@ -18,7 +18,7 @@
      <H1>Five tips for front-end web development
      </H1>
       <!-- Blog Image -->
-      <img src="static images for use/Five-tips-for-front-end-web-development.jpg"
+      <img src="https://github.com/subratjha18/subratjha18.github.io/blob/main/0000000000001395.png"
       height="50%"
       width="50%">
       <!-- Content -->
