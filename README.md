@@ -8,7 +8,7 @@
     <body>
     <!-- Header -->
      <!--  Logo -->
-     <img src="https://github.com/subratjha18/subratjha18.github.io/blob/main/0000000000001394.png">
+     <img src="https://github.com/subratjha18/subratjha18.github.io/blob/main/0000000000001393.jpg">
       <!-- Webite Link -->
       <h2><a href="https://blogs.codingninjas.in" target="_blank">blogs.codingninjas.in</a></h2>
      <!-- Header images -->
