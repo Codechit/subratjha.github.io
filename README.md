@@ -8,11 +8,11 @@
     <body>
     <!-- Header -->
      <!--  Logo -->
-     <img src="C:\Users\SUBRAT JHA\Documents\HTML\Basics\static images for use\0000000000001394.png">
+     <img src="https://github.com/subratjha18/subratjha18.github.io/blob/main/0000000000001394.png">
       <!-- Webite Link -->
       <h2><a href="https://blogs.codingninjas.in" target="_blank">blogs.codingninjas.in</a></h2>
      <!-- Header images -->
-     <img src="C:\Users\SUBRAT JHA\Documents\HTML\Basics\static images for use\0000000000001395.png">
+     <img src="">
     <!-- Main Blog Content -->
      <!--  Blog Heading -->
      <H1>Five tips for front-end web development
