@@ -8,7 +8,7 @@
     <body>
     <!-- Header -->
      <!--  Logo -->
-     <img src="https://github.com/subratjha18/subratjha18.github.io/blob/main/0000000000001393.jpg">
+     <img src="https://ninjasfiles.s3.amazonaws.com/0000000000001394.png">
       <!-- Webite Link -->
       <h2><a href="https://blogs.codingninjas.in" target="_blank">blogs.codingninjas.in</a></h2>
      <!-- Header images -->
@@ -18,7 +18,7 @@
      <H1>Five tips for front-end web development
      </H1>
       <!-- Blog Image -->
-      <img src="https://github.com/subratjha18/subratjha18.github.io/blob/main/0000000000001395.png"
+      <img src="https://ninjasfiles.s3.amazonaws.com/0000000000001393.jpg"
       height="50%"
       width="50%">
       <!-- Content -->
