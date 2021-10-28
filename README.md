@@ -38,7 +38,7 @@
             <li><h4>Commenting</h4>
             <p>
             Commenting is one such practice that is often ignored by programmers, especially for codes that are written by multiple programmers. But remember, commenting is an important part of project you create. With proper comments and organised files its always easier for you or others to jump in and understand where things are at and how they work.   
-            </li>
+            
             <li><h4>Invest In Productive Tools.</h4>
             <p>
             The Internet is teeming with a host of web development tools, from browser add-ons to smart plugins, the amount of choices available now is massive! So, why not invest in some really productive web tools that’ll help you improve your front-end designing skills? Tools like Sublime Text, jQuery, Emmet, GitHub, Bootstrap, and Sass are nothing short of a godsend for web developers.</p>  </li>
@@ -47,7 +47,7 @@
             A front-end developer has to keep himself/herself updated continuously with the latest news and innovations in the field. You need to take a proactive stand and learn new things about front-end development from informative blogs and videos. Following are some of the most informative and useful learning sources for front-end developers -</p>
             <ul type="circles">
 
-            <li><a href="https://frontendfoc.us/" target="_blank">Frontend Focus</a>
+                <li>< a href="https://frontendfoc.us/" target="_blank">Frontend Focus</a>
  </li>
             <li> <a href="https://css-weekly.com/"target="_blank">CSS Weekly</a>
 </li>
